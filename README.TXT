@@ -1,4 +1,9 @@
-# NumberMatch
+     __                 _                           _       _     
+  /\ \ \_   _ _ __ ___ | |__   ___ _ __ /\/\   __ _| |_ ___| |__  
+ /  \/ / | | | '_ ` _ \| '_ \ / _ \ '__/    \ / _` | __/ __| '_ \ 
+/ /\  /| |_| | | | | | | |_) |  __/ | / /\/\ \ (_| | || (__| | | |
+\_\ \/  \__,_|_| |_| |_|_.__/ \___|_| \/    \/\__,_|\__\___|_| |_|
+                                                                  
 NumberMatch es un proyecto de C++ que consiste en el clásico juego de Number Match.  
 El proyecto utiliza C++ y la librería Allegro y código base del profesorado de la asignatura para generar los gráficos de aplicación.  
 El objetivo del juego es limpiar la cudricula para terminar con la mayor cantidad de puntos. El jugador gana el juego si la curadricula se que queda totalmente vacía.  
